@@ -1,20 +1,20 @@
 # 💼 Work Experience
 🏢 **LOTTE INNOVATE** (2024.08 ~ Present)
 
-## 📚 Education
+# 📚 Education
 💻 **SSAFY 11th cohort** (2024.01 ~ 2024.08)
 
 🎓 **Yonsei University** – Department of Architectural Engineering (2018.03 ~ 2024.02)
 
-## 🏅 Stats
+# 🏅 Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HI-GRU&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff)
 
-## 🎯 Problem Solving
+# 🎯 Problem Solving
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gruns0989)](https://solved.ac/gruns0989)
 
-## 🛠️ Skills
+# 🛠️ Skills
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)

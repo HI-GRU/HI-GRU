@@ -1,6 +1,6 @@
 # 💼 Work Experience
-- **LOTTE INNOVATE** (2024.08 ~ 2025.06)
 - **NAVER** (2025.07 ~ )
+- **LOTTE INNOVATE** (2024.08 ~ 2025.06)
 
 # 📚 Education
 💻 **SSAFY 11th cohort** (2024.01 ~ 2024.08)

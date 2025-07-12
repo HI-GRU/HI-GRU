@@ -3,10 +3,10 @@
 - **LOTTE INNOVATE** (Aug 2024 – Jun 2025)
 
 # 📚 Education
-💻 **Samsung Software Academy for Youth (SSAFY), 11th Cohort**  
+- **Samsung Software Academy for Youth (SSAFY), 11th Cohort**  
 (Jan 2024 – Aug 2024)
 
-🎓 **Yonsei University**, B.S. in Architectural Engineering  
+- **Yonsei University**, B.S. in Architectural Engineering  
 (Mar 2018 – Feb 2024)
 
 # 🏅 Stats

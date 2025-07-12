@@ -5,7 +5,7 @@
 # 📚 Education
 💻 **SSAFY 11th cohort** (2024.01 ~ 2024.08)
 
-🎓 **Yonsei University** – Department of Architectural Engineering (2018.03 ~ 2024.02)
+🎓 **Yonsei University** – B.S. in Architectural Engineering (2018.03 ~ 2024.02)
 
 # 🏅 Stats
 

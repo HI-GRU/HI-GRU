@@ -1,11 +1,13 @@
 # 💼 Work Experience
-- **NAVER** (2025.07 ~ )
-- **LOTTE INNOVATE** (2024.08 ~ 2025.06)
+- **NAVER** (Jul 2025 – Present)
+- **LOTTE INNOVATE** (Aug 2024 – Jun 2025)
 
 # 📚 Education
-💻 **SSAFY 11th cohort** (2024.01 ~ 2024.08)
+💻 **Samsung Software Academy for Youth (SSAFY), 11th Cohort**  
+(Jan 2024 – Aug 2024)
 
-🎓 **Yonsei University** – B.S. in Architectural Engineering (2018.03 ~ 2024.02)
+🎓 **Yonsei University**, B.S. in Architectural Engineering  
+(Mar 2018 – Feb 2024)
 
 # 🏅 Stats
 

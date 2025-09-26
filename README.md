@@ -9,10 +9,6 @@
 - **Yonsei University**, B.S. in Architectural Engineering  
 (Mar 2018 – Feb 2024)
 
-# 🏅 Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HI-GRU&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff)
-
 # 🎯 Problem Solving
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gruns0989)](https://solved.ac/gruns0989)
